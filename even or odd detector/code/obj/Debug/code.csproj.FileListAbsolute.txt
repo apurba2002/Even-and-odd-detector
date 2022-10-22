@@ -1,0 +1,11 @@
+E:\c# job report\even or odd detector\code\bin\Debug\code.exe.config
+E:\c# job report\even or odd detector\code\bin\Debug\code.exe
+E:\c# job report\even or odd detector\code\bin\Debug\code.pdb
+E:\c# job report\even or odd detector\code\obj\Debug\code.csproj.AssemblyReference.cache
+E:\c# job report\even or odd detector\code\obj\Debug\code.csproj.SuggestedBindingRedirects.cache
+E:\c# job report\even or odd detector\code\obj\Debug\code.Form1.resources
+E:\c# job report\even or odd detector\code\obj\Debug\code.Properties.Resources.resources
+E:\c# job report\even or odd detector\code\obj\Debug\code.csproj.GenerateResource.cache
+E:\c# job report\even or odd detector\code\obj\Debug\code.csproj.CoreCompileInputs.cache
+E:\c# job report\even or odd detector\code\obj\Debug\code.exe
+E:\c# job report\even or odd detector\code\obj\Debug\code.pdb

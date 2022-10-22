@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code", "code.csproj", "{50FE5E94-4E68-4454-8ED6-9C3ADB80F31D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Even or odd detector program", "..\Even or odd detector program\Even or odd detector program.vdproj", "{91B7CBDD-4504-4D79-8F89-7FB763F2B443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FE5E94-4E68-4454-8ED6-9C3ADB80F31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FE5E94-4E68-4454-8ED6-9C3ADB80F31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FE5E94-4E68-4454-8ED6-9C3ADB80F31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FE5E94-4E68-4454-8ED6-9C3ADB80F31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B7CBDD-4504-4D79-8F89-7FB763F2B443}.Debug|Any CPU.ActiveCfg = Debug
+		{91B7CBDD-4504-4D79-8F89-7FB763F2B443}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46CAC95D-9553-4D14-9876-D3AF705B54AD}
+	EndGlobalSection
+EndGlobal
